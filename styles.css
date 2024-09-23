@@ -1,3 +1,19 @@
-p {
-	color: red;
-}
+#my-special-red-paragraph {
+    color: red;
+  }
+  
+#my-special-green-h1-header {
+    color: green;
+  }
+
+#my-special-lightblue-h2-header {
+    color: lightblue;
+  }
+
+#my-special-red-h3-header {
+    color: red;
+  }
+
+#my-special-orange-paragraph {
+    color: orange;
+  }
