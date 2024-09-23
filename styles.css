@@ -257,3 +257,12 @@
     font-size: 16px;
 	  color: red;
  }
+
+ #header-52-h1-2, #header-52-h2-2, #header-52-h3-2 {
+  text-align: center;
+  color: red;
+}
+
+#header-52-h3-2 {
+  font-size: 16px;
+}
