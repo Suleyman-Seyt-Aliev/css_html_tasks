@@ -2,6 +2,8 @@
     color: red;
   }
   
+
+
 #my-special-green-h1-header {
     color: green;
   }
@@ -18,6 +20,8 @@
     color: orange;
   }
 
+
+
 #my-special-RGB-h2-header {
     color: rgb(150, 250, 0);
   }
@@ -26,6 +30,8 @@
     color: #9932CC;
   }
 
+
+
 #my-special-long-paragraph {
     width: 300px;
   }
@@ -33,4 +39,33 @@
 #my-table {
     width: 400px;
 	height: 300px;
+  }
+
+  
+
+  #main-h1-title {
+    text-align: right;
+  }
+
+  #secondary-h2-heading {
+    text-align: center; 
+    width: 300px; 
+    margin: 0 auto; /* Центрирование внутри заданной ширины */
+  }
+
+  #product-table, #cell-table {
+    width: 500px; 
+  }
+
+  #product-table th {
+    text-align: left; 
+  }
+
+  #product-table td, #cell-table td {
+    text-align: center; 
+  }
+
+  #Lorem-ipsum-dolor-sit-amet {
+    width: 300px; 
+    text-align: justify; 
   }
