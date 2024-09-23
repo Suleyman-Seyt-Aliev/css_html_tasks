@@ -327,3 +327,35 @@
   .green-57-2 {
     color: green;
   }
+
+
+
+  .paragraph-58-1, .paragraph-58-2 {
+    line-height: 1.5;
+    font-family: Arial;
+  }
+
+  .paragraph-58-1 {
+    font-size: 20px;
+  }
+  .paragraph-58-2 {
+    font-size: 30px;
+  }
+
+
+  .eee-58, .zzz-58, .ggg-58 {
+    text-align: center;
+    font-family: Arial;
+  }
+
+  .eee-58 {
+    font-size: 20px;
+  }
+
+  .zzz-58 {
+    font-size: 30px;
+  }
+
+  .ggg-58 {
+    font-size: 35px;
+  }
