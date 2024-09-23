@@ -151,3 +151,20 @@
     font-size: 30px;
 	line-height: 1.5;
   }
+
+
+
+  #paragraph-41-1 {
+    font: 13px/20px "Times New Roman";
+  }
+
+  #paragraph-41-2 {
+    font: bold 40px Arial;
+    width: 300px;
+    color: red;
+  }
+
+  #paragraph-41-3 {
+    font: italic bold 40px/60px Arial;
+	text-indent: 50px;
+  }
