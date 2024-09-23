@@ -88,6 +88,22 @@
 
 
 
-  #my-special-italicized-h2-header {
+#my-special-italicized-h2-header {
     font-style: italic;
+  }
+
+
+
+#header-h1-37 {
+    font-size: 50px;
+    text-align: center;
+  }
+
+#header-h2-37 {
+    font-size: 40px;
+    font-weight: normal;
+  }
+
+#paragraph-37 {
+    font-size: 30px;
   }
