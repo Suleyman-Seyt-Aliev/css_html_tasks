@@ -85,3 +85,9 @@
 #Salary-table th {
     font-weight: normal;
   }
+
+
+
+  #my-special-italicized-h2-header {
+    font-style: italic;
+  }
