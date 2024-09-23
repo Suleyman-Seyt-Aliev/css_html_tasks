@@ -110,61 +110,94 @@
 
 
 
-  #paragraph-38-Times-New-Roman {
+#paragraph-38-Times-New-Roman {
     font-family: "Times New Roman";
   }
-  #paragraph-38-Arial {
+#paragraph-38-Arial {
     font-family: Arial;
   }
-  #paragraph-38-Georgia {
+#paragraph-38-Georgia {
     font-family: Georgia;
   }
-  #paragraph-38-Verdana {
+#paragraph-38-Verdana {
     font-family: Verdana;
   }
-  #paragraph-38-Trebuchet-MS {
+#paragraph-38-Trebuchet-MS {
     font-family: "Trebuchet MS";
   }
-  #paragraph-38-Impact {
+#paragraph-38-Impact {
     font-family: Impact;
   }
-  #paragraph-38-Arial-Black {
+#paragraph-38-Arial-Black {
     font-family: "Arial Black";
   }
-  #paragraph-38-Comic-Sans-MS {
+#paragraph-38-Comic-Sans-MS {
     font-family: "Comic Sans MS";
   }
-  #paragraph-38-Courier-New {
+#paragraph-38-Courier-New {
     font-family: "Courier New";
   }
 
 
 
-  #paragraph-39 {
+#paragraph-39 {
     font-size: 30px;
 	line-height: 45px;
   }
 
 
 
-  #paragraph-40 {
+#paragraph-40 {
     font-size: 30px;
 	line-height: 1.5;
   }
 
 
 
-  #paragraph-41-1 {
+#paragraph-41-1 {
     font: 13px/20px "Times New Roman";
   }
 
-  #paragraph-41-2 {
+#paragraph-41-2 {
     font: bold 40px Arial;
     width: 300px;
     color: red;
   }
 
-  #paragraph-41-3 {
+#paragraph-41-3 {
     font: italic bold 40px/60px Arial;
 	text-indent: 50px;
+  }
+
+
+
+#paragraph-42 {
+    text-indent: 50px;
+  }
+
+
+
+  #paragraph-44 {
+    text-decoration: underline;
+  }
+
+
+
+  #paragraph-45 {
+    text-decoration: overline;
+    color: red;
+  }
+
+
+
+  #paragraph-46 {
+    text-decoration: line-through;
+    color: green;
+  }
+
+
+
+  #link-47 {
+    color: red; 
+    text-decoration: none;
   }
