@@ -201,3 +201,40 @@
     color: red; 
     text-decoration: none;
   }
+
+
+
+  #header-h1-48 {
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+    width: 500px;
+  }
+
+  #header-h2-48 {
+    font-size: 30px;
+    font-weight: normal;
+    color: green;
+    text-align: center;
+    width: 500px;
+  }
+
+  #paragraph-48 {
+    text-indent: 50px;
+    font-family: Arial;
+    width: 500px;
+    text-align: justify;
+    line-height: 25px;
+  }
+
+  #points-48 {
+    width: 400px;
+    text-align: justify;
+    line-height: 20px;
+  }
+
+  #script-48 {
+    color: green;
+  }
+
+
