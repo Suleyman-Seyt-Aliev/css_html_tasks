@@ -239,4 +239,21 @@
 
 
 
+#header-51-h1, #header-51-h2, #header-51-h3 {
+      text-align: center;
+  }
   
+
+
+#header-52-h1, #header-52-h2, #header-52-h3 {
+      text-align: center;
+  }
+    
+#header-52-h2{
+    color: blue;
+ }
+  
+#header-52-h3 {
+    font-size: 16px;
+	  color: red;
+ }
