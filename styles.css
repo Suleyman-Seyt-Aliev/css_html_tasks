@@ -25,3 +25,12 @@
 #my-special-HEX-h2-header {
     color: #9932CC;
   }
+
+#my-special-long-paragraph {
+    width: 300px;
+  }
+
+#my-table {
+    width: 400px;
+	height: 300px;
+  }
