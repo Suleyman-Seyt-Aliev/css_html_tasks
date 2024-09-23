@@ -17,3 +17,11 @@
 #my-special-orange-paragraph {
     color: orange;
   }
+
+#my-special-RGB-h2-header {
+    color: rgb(150, 250, 0);
+  }
+
+#my-special-HEX-h2-header {
+    color: #9932CC;
+  }
