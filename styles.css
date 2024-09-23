@@ -43,29 +43,45 @@
 
   
 
-  #main-h1-title {
+#main-h1-title {
     text-align: right;
   }
 
-  #secondary-h2-heading {
+#secondary-h2-heading {
     text-align: center; 
     width: 300px; 
     margin: 0 auto; /* Центрирование внутри заданной ширины */
   }
 
-  #product-table, #cell-table {
+#product-table, #cell-table {
     width: 500px; 
   }
 
-  #product-table th {
+#product-table th {
     text-align: left; 
   }
 
-  #product-table td, #cell-table td {
+#product-table td, #cell-table td {
     text-align: center; 
   }
 
-  #Lorem-ipsum-dolor-sit-amet {
+#Lorem-ipsum-dolor-sit-amet {
     width: 300px; 
     text-align: justify; 
+  }
+
+
+
+#Salary-table {
+    width: 500px;
+	height: 300px;
+  }
+
+#Salary-table td {
+    font-weight: bold;
+    text-align: center;
+  }
+
+#Salary-table th {
+    font-weight: normal;
   }
