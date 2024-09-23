@@ -374,3 +374,29 @@
   .eee-60 i {
     color: red;
   }
+
+
+
+  .eee-61, .bbb-61 {
+    color: red;
+  }
+
+  .eee-61-2 h2 {
+    color: red;
+  }
+
+  .eee-61-3 h2.bbb-61-3 {
+    color: red;
+  }
+
+  .eee-61-4 h3.bbb-61-4 {
+    color: red;
+   }
+
+   .eee-61-5 p.bbb-61-5 {
+    color: red;
+   }
+
+   .eee-61-6 .bbb-61-6 .kkk-61-6 {
+    color: red;
+   }
