@@ -418,3 +418,31 @@
    .eee-62-4 p .bbb-62-4 {
     color: red;
    }
+
+
+
+   .success-63 {
+    color: green;
+  }
+  .error-63 {
+    color: red;
+  }
+  .large-63 {
+    font-size: 30px;
+  }
+  .small-63 {
+    font-size: 20px;
+  }
+  
+  
+  .large-63-2 {
+    font-size: 50px;
+  }
+  
+  .bold-63 {
+    font-weight: bold;
+  }
+  
+  .blue-63 {
+    color:blue
+  }
