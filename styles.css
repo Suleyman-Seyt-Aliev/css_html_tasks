@@ -556,3 +556,21 @@
    #elem-69-10 .bbb-69-10 {
     color: red;
    }
+
+
+
+   #block-70 h2, #block-70 h3 {
+   text-align: center;
+  }
+
+  #block-70-2 h2, #block-70-2 h3 {
+    text-align: center;
+   }
+
+   #block-70-2 h2{
+    font-size: 30px;
+   }
+
+   #block-70-2 h3{
+    font-size: 20px;
+   } 
