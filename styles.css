@@ -680,3 +680,13 @@ h2.bbb-72-8  {
   .fff-72-17 h2.bbb-72-17 {
     color: blue;
   }
+
+
+
+  #elem-77-1 + li {
+    color: red;
+  }
+
+  .elem-77-2 + li {
+    color: red;
+  }
