@@ -611,3 +611,72 @@
   }
 
   
+
+  #div-72 p {
+    color: blue;
+  }
+
+  #div-72-2 h2 {
+    color: blue;
+  }
+
+  #block-72-3 p {
+    color: blue;
+  }
+
+  #block-72-4 h2 {
+    color: blue;
+  }
+
+  .bbb-72-5 {
+    color: blue;
+  }
+
+  #block-72-6 .bbb-72-6 {
+    color: blue;
+  }
+
+  p.bbb-72-7  {
+    color: blue;
+  }
+
+h2.bbb-72-8  {
+    color: blue;
+  }
+
+  #block-72-9 p.bbb-72-9  {
+    color: blue;
+  }
+
+
+  .bbb-72-10, .xxx-72-10 {
+    color: blue;
+  }
+
+  p.bbb-72-11, h2.xxx-72-11 {
+    color: blue;
+  }
+
+  #block-72-12 p.bbb-72-12, #block-72-12 p.xxx-72-12 {
+    color: blue;
+  }
+
+  .fff-72-13  {
+    color: blue;
+  }
+
+ .fff-72-14  p  {
+    color: blue;
+  }
+
+  p.fff-72-15  {
+    color: blue;
+  }
+
+  .fff-72-16 .bbb-72-16 {
+    color: blue;
+  }
+
+  .fff-72-17 h2.bbb-72-17 {
+    color: blue;
+  }
