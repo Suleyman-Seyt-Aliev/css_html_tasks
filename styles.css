@@ -690,3 +690,11 @@ h2.bbb-72-8  {
   .elem-77-2 + li {
     color: red;
   }
+
+  #elem-78 ~ li {
+    color: red;
+  }
+
+  #main-79 * p {
+    color: red;
+  }
