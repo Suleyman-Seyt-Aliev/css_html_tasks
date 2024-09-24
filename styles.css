@@ -400,3 +400,21 @@
    .eee-61-6 .bbb-61-6 .kkk-61-6 {
     color: red;
    }
+
+
+
+   p.bbb-62-1 {
+    color: red;
+   }
+
+   p .bbb-62-2 {
+    color: red;
+   }
+
+   .eee-62-3 p.bbb-62-3 {
+    color: red;
+   }
+
+   .eee-62-4 p .bbb-62-4 {
+    color: red;
+   }
