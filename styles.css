@@ -791,3 +791,58 @@ a.zzz-86:hover {
 .block-86-3 a.zzz-86-3:hover {
 	text-decoration: none;
 }
+
+
+
+#li-87 li:first-child {
+	color: red;
+}
+
+#li-87-2 li:last-child {
+	color: green;
+}
+
+#li-87-3 li:first-child {
+	color: red
+}
+
+#li-87-3 li:last-child {
+	color: green;
+}
+
+
+#li-87-4 li:nth-child(3) {
+	color: red;
+}
+
+
+#li-87-5 li:nth-child(even) {
+	color: red;
+}
+#li-87-5 li:nth-child(odd) {
+	color: green;
+}
+
+#li-87-6 li:nth-child(3n) {
+	color: red;
+}
+
+#li-87-7 li:nth-child(4) {
+	color: red;
+}
+
+
+#li-87-8 li:only-child {
+	color: red;
+}
+
+#li-87-9 li:nth-child(-n+4) {
+  border: 1px solid red;
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+#li-87-9 li:empty {
+	border: 1px solid blue;
+	width: 100px;
+}
