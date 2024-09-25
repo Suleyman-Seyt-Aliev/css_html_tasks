@@ -732,3 +732,16 @@ p[class^="top-"] {
   color: olive;
   font-style: italic;
 }
+
+a:link.href-82 {
+	color: lightblue;
+}
+a:visited.href-82 {
+	color: green;
+}
+a:hover.href-82 {
+	color: red;
+}
+a:active.href-82 {
+	color: Black;
+}
