@@ -698,3 +698,37 @@ h2.bbb-72-8  {
   #main-79 * p {
     color: red;
   }
+
+
+
+  [title].title-80 {
+    color:blue
+  }
+
+  p[title].title-80-2{ 
+    color: rgb(41, 144, 255); 
+}
+
+p[title="hello"].title-80-3 {
+  color: rgb(255, 0, 149); 
+}
+
+a[href^="http://"].title-80-4 {
+  color: red;
+  text-decoration: underline;
+}
+
+a[href$=".html"].title-80-5 {
+  color: seagreen;
+  text-decoration: underline;
+}
+
+p[title*="hello"].title-80-6{
+  color: green;
+  font-weight: bold;
+}
+
+p[class^="top-"] {
+  color: olive;
+  font-style: italic;
+}
