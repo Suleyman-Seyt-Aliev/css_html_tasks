@@ -733,15 +733,61 @@ p[class^="top-"] {
   font-style: italic;
 }
 
-a:link.href-82 {
+
+
+
+a.href-82:link {
 	color: lightblue;
 }
-a:visited.href-82 {
+a.href-82:visited {
 	color: green;
 }
-a:hover.href-82 {
+a.href-82:hover {
 	color: red;
 }
-a:active.href-82 {
+a.href-82:active {
 	color: Black;
+}
+
+
+
+a.href-84 {
+	color: lightblue;
+  text-decoration: none;
+}
+a.href-84:hover {
+	color: red;
+  text-decoration: underline;
+}
+
+
+
+a#test-85 {
+	color: red;
+}
+a#test-85:hover  {
+	text-decoration: none;
+}
+
+
+
+a.zzz-86 {
+	color: red;
+}
+a.zzz-86:hover {
+	text-decoration: none;
+}
+
+#block-86-2 a.zzz-86-2 {
+	color: red;
+}
+#block-86-2 a.zzz-86-2:hover {
+	text-decoration: none;
+}
+
+.block-86-3 a.zzz-86-3 {
+	color: red;
+}
+.block-86-3 a.zzz-86-3:hover {
+	text-decoration: none;
 }
