@@ -929,3 +929,35 @@ a.zzz-86:hover {
 	width: 300px;
 	height: 200px;
 }
+
+#elem-96 {
+	border-width: 10px;
+	border-style: double;
+	border-color: blue;
+	width: 300px;
+	height: 200px;
+}
+
+#elem-97-1 {
+	border: 1px solid red;
+	width: 300px;
+	height: 200px;
+}
+
+#elem-97-2 {
+	border: 2px dotted blue;
+	width: 300px;
+	height: 200px;
+}
+
+#elem-97-3 {
+	border: 3px dashed green;
+	width: 300px;
+	height: 200px;
+}
+
+#elem-97-4 {
+	border: 5px double orange;
+	width: 300px;
+	height: 200px;
+}
