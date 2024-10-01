@@ -904,3 +904,28 @@ a.zzz-86:hover {
 	height: 200px;
   background-color: rgb(60, 255, 187); 
 }
+
+
+#elem-92 {
+	border-width: 5px;
+	border-style: solid;
+	border-color: blue;
+	width: 300px;
+	height: 200px;
+}
+
+#elem-93 {
+	border-width: 5px;
+	border-style: dotted;
+	border-color: red;
+	width: 300px;
+	height: 200px;
+}
+
+#elem-94 {
+	border-width: 2px;
+	border-style: dashed;
+	border-color: orange;
+	width: 300px;
+	height: 200px;
+}
