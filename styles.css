@@ -873,3 +873,18 @@ a.zzz-86:hover {
 #h2-88-3 h2:only-of-type {
 	color: darkorchid;
 }
+
+
+
+#ul-89-1 li:not(.elem) {
+	color: red;
+}
+
+#ul-89-2 li:not(:first-child) {
+	color: red;
+}
+
+
+#ul-89-3 li:not(:first-child):not(:last-child){
+	color: red;
+}
