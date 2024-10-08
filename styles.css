@@ -980,3 +980,10 @@ a.zzz-86:hover {
 	width: 300px;
 	height: 200px;
 }
+
+#elem-99 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 30px;
+}
