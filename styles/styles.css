@@ -1230,3 +1230,19 @@ border: 1px dashed blue;
   text-align: justify;
   padding: 10px 20px 40px;
 }
+
+#elem-138 {
+	width: 100px;
+	height: 100px;
+	background: #28620d;
+	margin-bottom: 20px;
+}
+
+#elem-138-2 {
+	width: 100px;
+	height: 100px;
+	background: #28620d;
+	padding: 25px; /* задаем отступы */
+	border: 10px solid rgb(30, 255, 0);  /* задаем границу */
+	box-sizing: border-box;  /* убираем расширение */
+}
