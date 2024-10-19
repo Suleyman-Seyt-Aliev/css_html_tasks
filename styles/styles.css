@@ -1148,13 +1148,54 @@ a.zzz-86:hover {
   border: 1px dashed blue;
 	}
 
-  #parent-130-2 {
-    width: 200px;
-    border: 1px solid orange;
-    }
-    #child-130-2 {	
-    margin: 25px 50px;
-    height: 50px;			
-    border: 1px dashed blue;
-    }
+#parent-130-2 {
+width: 200px;
+border: 1px solid orange;
+}
+#child-130-2 {	
+margin: 25px 50px;
+height: 50px;			
+border: 1px dashed blue;
+}
 		
+#parent-131 {
+width: 200px;
+border: 1px solid orange;
+}
+#child-131 {	
+margin: 100px 50px 30px;
+height: 50px;			
+border: 1px dashed blue;
+}
+
+#parent-131-2 {
+width: 400px;
+border: 1px solid orange;
+}
+#child-131-2 {	
+margin: 30px 100px 50px;
+height: 50px;			
+border: 1px dashed blue;
+}
+
+
+#elem-132 {
+  padding: 50px;
+  width: 200px;
+  border: 1px solid red;
+  text-align: justify;
+}
+#elem-132-2 {
+  width: 500px;
+  padding: 20px;
+  margin-bottom: 30px;
+  border: 1px solid green;
+  text-align: justify;
+}
+#elem-132-2-2 {
+  width: 300px;
+  padding: 10px;
+  margin-left: 50px;
+  border: 1px solid red;
+  text-align: justify;
+}
