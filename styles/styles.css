@@ -1311,11 +1311,74 @@ border: 1px dashed blue;
         text-align: center;
         padding: 10px 0;
         border: 1px solid red;
-        margin-left: 5px;
-        margin-right: 5px; 
+ 
       }
       .child-164 {
         display: inline-block;
         padding: 10px;
         border: 1px solid green;
+        margin-left: 5px;
+        margin-right: 5px;
       }
+
+      .parent-165 { 
+        padding: 10px 0; 
+        border: 1px solid red; 
+        text-align: right; 
+       } 
+       
+       .child-165 { 
+        padding: 10px; 
+        border: 1px solid green; 
+        display: inline-block; 
+        
+       }
+
+       .parent-165-2 { 
+        padding: 10px 20px 10px 10px;
+        border: 1px solid red; 
+        text-align: right;
+       } 
+       
+       .child-165-2 { 
+        padding: 10px; 
+        border: 1px solid green; 
+        display: inline-block; 
+        
+       }
+
+       .parent-165-3 { 
+       padding: 10px 0;
+        border: 1px solid red; 
+        text-align: right;
+       } 
+       .child-165-3 { 
+        margin-right: 20px;
+        padding: 10px ; 
+        border: 1px solid green; 
+        display: inline-block; 
+       }
+
+       .parent-165-4 {
+        padding: 10px 0;
+        border: 1px solid red;
+        text-align: right;
+      }
+      .child-165-4 {
+        padding: 10px;
+        border: 1px solid green;
+        display: inline-block; 
+        
+      }
+
+      .parent-165-5 {
+        padding: 10px 0;
+        border: 1px solid red;
+        text-align: center;
+      }
+      .child-165-5 {
+        padding: 10px;
+        border: 1px solid green;
+        display: inline-block;   
+      }
+
