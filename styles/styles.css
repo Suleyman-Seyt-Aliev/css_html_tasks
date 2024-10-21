@@ -1382,3 +1382,17 @@ border: 1px dashed blue;
         display: inline-block;   
       }
 
+
+
+.parent-166 {
+display: flex;
+width: 900px;
+height: 400px;
+margin: 20px auto;
+border: 1px solid red;
+}
+.child-166 {
+width: 120px;			
+height: 60px;
+border: 1px solid green;
+}
