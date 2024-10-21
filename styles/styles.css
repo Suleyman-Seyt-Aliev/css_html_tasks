@@ -1409,3 +1409,13 @@ border: 1px solid green;
   height: 100px;
   border: 1px solid green;
 }
+
+.parent-168 {
+	display: flex;
+	border: 1px solid red;
+}
+.child-168 {
+	width: 120px;;
+	height: 100px;
+	border: 1px solid green;
+}
