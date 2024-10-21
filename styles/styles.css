@@ -1453,3 +1453,33 @@ border: 1px solid green;
   border: 1px solid green;
 }
 
+
+.parent-173 {
+  display: flex;
+  justify-content: center;
+  width: 900px;
+  height: 400px;
+  margin: 20px auto;
+  border: 1px solid red;
+}
+.child-173 {
+  width: 120px;
+  height: 60px;
+  border: 1px solid green;
+}
+
+
+.parent-174 {
+  display: flex;
+  justify-content: space-between;
+  width: 900px;
+  height: 200px;
+  margin: 20px auto;
+  border: 1px solid red;
+}
+.child-174 {
+  width: 120px;
+  height: 60px;
+  border: 1px solid green;
+}
+
