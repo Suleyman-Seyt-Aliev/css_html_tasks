@@ -1419,3 +1419,13 @@ border: 1px solid green;
 	height: 100px;
 	border: 1px solid green;
 }
+
+.parent-169 {
+  display: inline-flex;
+  border: 1px solid red;
+}
+.child-169 {
+  width: 120px;
+  height: 60px;
+  border: 1px solid green;
+}
