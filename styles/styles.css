@@ -1294,3 +1294,15 @@ border: 1px dashed blue;
 				margin: 10px auto;
 			}
 		
+
+      .parent-161 {
+        padding: 10px 0;
+        border: 1px solid red;
+        text-align: center;
+      }
+
+      .parent-162 {
+        padding: 10px 100px;
+        border: 1px solid red;
+        text-align: right;
+      }
