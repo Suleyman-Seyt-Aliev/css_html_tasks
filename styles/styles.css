@@ -1396,3 +1396,16 @@ width: 120px;
 height: 60px;
 border: 1px solid green;
 }
+
+
+.parent-167 {
+  display: flex;
+  width: 900px;
+  margin: 20px auto;
+  border: 1px solid red;
+}
+.child-167 {
+  width: 120px;
+  height: 100px;
+  border: 1px solid green;
+}
