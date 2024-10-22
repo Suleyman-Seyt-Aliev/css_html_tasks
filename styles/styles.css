@@ -1600,12 +1600,43 @@ border: 1px solid green;
   top: 55060px;
 }
 
-
-
-
-
-
-
 #p-177 {
   color: transparent; 
  }
+
+
+
+#elem1-178 {
+  position: relative;
+  top: px;
+  left: 40px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
+}
+#elem2-178 {
+  position: relative;
+  bottom: 40px;
+  left: 80px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
+}
+#elem3-178 {
+  position: relative;
+  bottom: 80px;
+  left: 160px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
+}
+
+
+
+
+
+
+
