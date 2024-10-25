@@ -1,0 +1,19 @@
+   #elem-182 { 
+    position: absolute; 
+    top: 100px; 
+    right: 100px; 
+    bottom: 100px; 
+    left:  100px; 
+    background-color: #28620d; 
+    border: 1px solid green; 
+   }
+
+   #elem-182-2 {
+	position: absolute;
+	top: 100px;
+	right:  200px;
+	bottom: 50px;
+	left:   10px;
+	background-color: #28620e;
+	border: 1px solid green;
+}
