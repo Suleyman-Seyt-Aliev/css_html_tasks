@@ -1867,3 +1867,30 @@ z-index: 2;
 #p-180 {
   color: transparent; 
  }
+
+#parent-183 {
+position: relative;
+width: 300px;
+height: 200px;
+margin: 0 auto;
+border: 1px solid green;
+}
+			
+#child-183-1 {
+position: absolute;
+left: -50px;
+top: 0;
+width: 30px;
+height: 30px;
+border: 1px solid red;
+}
+			
+#child-183-2 {
+position: absolute;
+right: -50px;
+top: 0;
+width: 30px;
+height: 30px;
+border: 1px solid red;
+}
+		
