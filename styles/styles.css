@@ -2008,3 +2008,40 @@ img {
   text-align: center;
   border: 1px solid green;
 }
+
+
+.parent-203 {
+  padding: 20px;
+  border: 1px solid black;
+}
+
+.child-203 {
+  float: left;
+  width: 100px;
+  height: 50px;
+  margin: 0 10px;
+  text-align: center;
+  border: 1px solid green;
+}
+
+.clearfix-203 {
+  clear: both;
+}
+
+.parent-203-2 {
+  padding: 20px;
+  border: 1px solid black;
+}
+
+.child-203-2 {
+  float: right;
+  width: 100px;
+  height: 50px;
+  margin: 0 10px;
+  text-align: center;
+  border: 1px solid green;
+}
+
+.clearfix-203-2 {
+  clear: both;
+}
