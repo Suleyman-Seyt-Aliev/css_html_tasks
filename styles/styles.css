@@ -2180,3 +2180,117 @@ img {
   height: 60px;
   border: 1px solid green;
 }
+
+
+.parent-210 {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 900px;
+  height: 400px;
+  margin: 20px auto;
+  border: 1px solid red;
+}
+.child-210 {
+  width: 120px;
+  height: 60px;
+  border: 1px solid green;
+}
+
+.parent-210-2 {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+  align-items: flex-end;
+  width: 900px;
+  height: 400px;
+  margin: 20px auto;
+  border: 1px solid red;
+}
+.child-210-2 {
+  width: 120px;
+  height: 60px;
+  border: 1px solid green;
+}
+
+.parent-210-3 {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  align-items: flex-start;
+  width: 900px;
+  height: 400px;
+  margin: 20px auto;
+  border: 1px solid red;
+}
+.child-210-3 {
+  width: 120px;
+  height: 60px;
+  border: 1px solid green;
+}
+
+.parent-210-4 {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-start;
+  align-items: flex-end;
+  width: 900px;
+  height: 400px;
+  margin: 20px auto;
+  border: 1px solid red;
+}
+.child-210-4 {
+  width: 120px;
+  height: 60px;
+  border: 1px solid green;
+}
+
+.parent-210-5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  width: 900px;
+  height: 400px;
+  margin: 20px auto;
+  border: 1px solid red;
+}
+.child-210-5 {
+  width: 120px;
+  height: 60px;
+  border: 1px solid green;
+}
+
+
+.parent-210-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  width: 900px;
+  height: 400px;
+  margin: 20px auto;
+  border: 1px solid red;
+}
+.child-210-6 {
+  width: 120px;
+  height: 60px;
+  border: 1px solid green;
+}
+
+.parent-210-7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+  width: 900px;
+  height: 400px;
+  margin: 20px auto;
+  border: 1px solid red;
+}
+.child-210-7 {
+  width: 120px;
+  height: 60px;
+  border: 1px solid green;
+}
