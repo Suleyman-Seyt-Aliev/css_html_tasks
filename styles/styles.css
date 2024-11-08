@@ -1987,3 +1987,24 @@ img {
   margin-bottom: 10px;
   border: 1px solid green;
 }
+
+
+
+.parent-202 {
+  width: 800px;
+  padding: 20px;
+  margin: 0 auto;
+  border: 1px solid black;
+  text-align: justify;
+}
+
+.child-202-1 {
+  float: right;
+  width: 130px;
+  height: 70px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  border: 1px solid green;
+}
